@@ -11,7 +11,7 @@ sh install.sh
 This will install the necessary dependencices for executing the SUAS_Competition code. 
 
 
-To run the Client script, cd into the ```gcs``` directory, then run:
+To run the Client script, navigate into the ```SUAS_Competition/Scripts/gcs``` directory, then run:
 
 ```
 export FLASK_APP=flask_gcs.py
